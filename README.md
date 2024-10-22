@@ -60,7 +60,7 @@ The app is compatible with iOS 12.4 and above (iOS 16.0+ for the lock screen wid
 
 ## Preview
 
-https://github.com/kwsong0113/imagine/assets/53707540/d6675ad0-7f54-4fb3-af03-2822f045ecc4
+https://github.com/micheal081/Linky/blob/main/261197632-d6675ad0-7f54-4fb3-af03-2822f045ecc4.mov
 
 
 ## Getting Started
